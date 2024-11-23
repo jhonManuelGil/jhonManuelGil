@@ -1,4 +1,5 @@
-# 👋 Olá! Bem-vindo ao meu perfil no GitHub  
+
+<h2 align="center"># 👋 Olá! Bem-vindo ao meu perfil no GitHub</h2>
 
 🎓 **Quem sou eu?**  
 - Estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
@@ -20,7 +21,7 @@
 - Estágio em Engenharia de Dados para aplicar meus conhecimentos e aprender com profissionais da área.  
 
 ----------------------------------
-<h2 align="center"># 👋 Olá! Bem-vindo ao meu perfil no GitHub.</h2>
+
 
 ###
 
@@ -31,11 +32,11 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/207c0889d7d3b6d438a23edf65090b0f/9fa1b3df5d51ee85-b6/s540x810/f2c69ca81b1ad2c7ec4199b89875a903b3750cdd.gifv"  />
+<img align="right" height="150" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -46,13 +47,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
 </div>
 
 ###
@@ -62,15 +67,23 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
 ###
----
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/jhonManuelGil/jhonManuelGil/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center">💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias."</p>
+
+###
 ---
-💡 *"A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias."*  
+
+<p align="center>💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias."  </p>
+
+
 
 
