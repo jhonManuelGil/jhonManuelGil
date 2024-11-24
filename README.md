@@ -21,8 +21,6 @@
 - Estágio em Engenharia de Dados para aplicar meus conhecimentos e aprender com profissionais da área.  
 
 ---
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
