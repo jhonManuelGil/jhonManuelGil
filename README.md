@@ -119,10 +119,9 @@
 ###
 
 <br/>
-
-<p align="center">💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias."  </p>
-
-
+ <br> <br> <br>
+<p align="center">💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias." </p>
+<p align="center"> Obrigada por visitar meu perfil! 😊</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
