@@ -1,34 +1,41 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
-
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" height="190" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
 
 
 🎓 **Quem sou eu?**  
-- Estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
+- Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
 - Apaixonado por **Data Engineer** e pela transformação de informações em soluções práticas.
-  
+   <br> <br> <br> <br>
 <hr>
 
 
 💻 **O que estou aprendendo e trabalhando:**  
-- Desenvolvendo habilidades em **Python**, **SQL** e **processamento de dados**.  
-- Explorando ferramentas como **Apache Spark**, **Pandas** e **bancos de dados relacionais e NoSQL**.  
-- Contribuindo para projetos que utilizam dados para tomadas de decisão estratégicas.
+- **Linguagens de Programação** Python (focado em processamento de dados com Pandas, NumPy e ferramentas de automação de tarefas).
+- **Introdução a API** maior flexibilidade na busca e manipulação de dados para análises futuras.
+- **Bancos de Dados:** SQL (relacionais), NoSQL (MongoDB, Cassandra).
+- **Big Data:** Apache Spark, ETL (Extração, Transformação e Carga de Dados).
+- **Ferramentas e Sistemas:** Linux, Git/GitHub, Data Crawlers, Big Data Frameworks.
 
 
 <hr>
 
 ### **Habilidades Pessoais:**  
-- Capacidade analítica para resolução de problemas.  
-- Trabalho em equipe com visão estratégica.  
-- Proatividade e vontade de aprender continuamente.
+- **Capacidade analítica.**  
+- **Trabalho em equipe.** 
+- **Proatividade e vontade de aprender continuamente.**
+- **Pensamento crítico.** 
+- **Trabalhar sob pressão.**
+- **Visão estratégica.**
+- **Resolver problemas.**
+- **Produtividade mesmo em situações desafiadoras.**
+
+
 
 <hr>
 
