@@ -21,6 +21,7 @@
 - **Bancos de Dados:** SQL (relacionais), NoSQL (MongoDB, Cassandra).
 - **Big Data:** Apache Spark, ETL (Extração, Transformação e Carga de Dados).
 - **Ferramentas e Sistemas:** Linux, Git/GitHub, Data Crawlers, Big Data Frameworks.
+- **Ferramentas de nuvem** como AWS ou AZURE
 
 
 <hr>
