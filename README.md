@@ -7,11 +7,11 @@
 
 <img align="right" height="190" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
 
-
+<br> <br>
 🎓 **Quem sou eu?**  
 - Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
 - Apaixonado por **Data Engineer** e pela transformação de informações em soluções práticas.
-   <br> <br> <br> <br>
+   <br> <br> <br>
 <hr>
 
 
