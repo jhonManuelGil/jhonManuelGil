@@ -11,7 +11,12 @@
 🎓 **Quem sou eu?**  
 - Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
 - Apaixonado por **Data Engineer** e pela transformação de informações em soluções práticas.
-   <br> <br> <br>
+
+- ✨💼 Experiência Profissional:<br>
+  Tenho 4 anos trabalhando no mundo do telemarketing bilíngue espanhol.
+  Ativo e Receptivo, Técnico e atualmente trabalho como BackOffice tipo 2. Ao longo da minha carreira
+  desenvolvi competências valiosas como comunicação, trabalho em equipe, criatividade, resolução de
+  conflitos, resiliência, capacidade organizacional, entre outras.
 <hr>
 
 
