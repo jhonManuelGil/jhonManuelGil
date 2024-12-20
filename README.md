@@ -77,8 +77,9 @@
 
 ###
 
-<img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo5b3A5dXF6NHE4Nnp3MG1mMWppbGM0MWZrbnp6amdiazg3YjBkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -130,4 +131,13 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+**Meus projetos**
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonManuelGil&repo=Forma-o-Python-Fundamentals-DIO)](https://github.com/jhonManuelGil/Forma-o-Python-Fundamentals-DIO.git)
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
