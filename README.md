@@ -41,8 +41,6 @@
 - **Resolver problemas.**
 - **Produtividade mesmo em situações desafiadoras.**
 
-
-
 <hr>
 
 
@@ -59,7 +57,7 @@
 ###
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px"  alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60px"  alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
  <br>
 <div style="display:grid;align-items:center;justify-content:center">
@@ -78,7 +76,7 @@
 ###
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
 </a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
