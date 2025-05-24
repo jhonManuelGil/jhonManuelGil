@@ -65,20 +65,15 @@
 
 <div align="center">
 
-<div align="center">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=pt-br&hide_border=false&order=1&custom_title=Data%20Engineer" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-</div>
 
-###
 
-<a target="_blank" align="center">
-  <img align="right" top="500" width="250" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
-</a>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
@@ -99,9 +94,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
+### 
+
+<br>
+<img align="right"  width="180" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
+
+
 ###
 
-<div align="center">
+
+ <br> 
+ <div align="center">
   
   <a href="mailto:jhonmanuelkg6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" target="_blank" />
@@ -115,18 +118,22 @@
 
 </div>
 
-
 ###
-
-<br/>
- <br> <br> <br>
-<p align="center">💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias." </p>
-<p align="center"> Obrigada por visitar meu perfil! 😊</p>
 
 <!--horizontal divider(gradiant)-->
 <img width=100%  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<div align="center">
+<a target="_blank" >
+  <p>💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias." </p>
+<p> Obrigada por visitar meu perfil! 😊</p>
+</a>
+</div>
+
+
+<img width=100% margin-bottom="5" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
