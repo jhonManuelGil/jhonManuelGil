@@ -5,7 +5,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" height="190" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
+<img align="right"  width="180" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
 
 <br> <br>
 🎓 **Quem sou eu?**  
@@ -94,29 +94,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-### 
-
 <br>
-<img align="right"  width="180" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
-
-
-###
-
-
- <br> 
- <div align="center">
+<br> 
   
-  <a href="mailto:jhonmanuelkg6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" target="_blank" />
-  </a>
-  <a href="https://discord.com/users/835269507663659048" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" target="_blank" />
-  </a>
-  <a href="[https://wa.me/5511958838782](https://github.com/jhonManuelGil)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" target="_blank" />    
-  </a>
+ ## 📬 Contáctame
 
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+ 
+
+[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/5511958838782?text=Muito%20obrigado%20pelo%20contato!%20Fico%20muito%20feliz%20pela%20oportunidade.)&nbsp;&nbsp;&nbsp;
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/835269507663659048)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:jhonmanuelkg6@gmail.com)
+<img align="right" height="120" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
 </div>
+
 
 ###
 
@@ -126,10 +118,11 @@
 
 
 <div align="center">
-<a target="_blank" >
+<a>
   <p>💡 "A curiosidade sobre dados é o que me motiva a crescer e aprender todos os dias." </p>
 <p> Obrigada por visitar meu perfil! 😊</p>
 </a>
+  
 </div>
 
 
