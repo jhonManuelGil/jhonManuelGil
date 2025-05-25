@@ -65,10 +65,12 @@
 
 <div align="center">
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=pt-br&hide_border=false&order=1&custom_title=Data%20Engineer" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
@@ -93,7 +95,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
+<br> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonManuelGil&radius=10&theme=high-contrast&area=true&order=5&custom_title=jhonManuelGil&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 <br>
 <br> 
   
@@ -101,8 +106,7 @@
 
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
- 
-
+  
 [![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/5511958838782?text=Muito%20obrigado%20pelo%20contato!%20Fico%20muito%20feliz%20pela%20oportunidade.)&nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/835269507663659048)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:jhonmanuelkg6@gmail.com)
