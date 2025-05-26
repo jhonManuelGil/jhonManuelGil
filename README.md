@@ -1,16 +1,21 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
 </p>
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right"  width="180" alt="GIF" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
 
 <br> <br>
 🎓 **Quem sou eu?**  
 - Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
-- Apaixonado por **Data Engineer** e pela transformação de informações em soluções práticas.
+- Apaixonado por **Data Engineer**. Com um grande interesse em transformar informações complexas em soluções que realmente fazem a diferença.
+  Na construção de pipelines de dados eficientes, no **design de estratégias de ETL** e na modelagem de dados, **busco sempre garantir desempenho,
+  escalabilidade e confiabilidade.**em traduzir dados em insights acionáveis que contribuam diretamente soluções claras e úteis, que
+  apoiem **decisões mais humanas e eficazes na tomada de decisão.**
+
 
 - ✨💼 Experiência Profissional:<br>
   Tenho 4 anos trabalhando no mundo do telemarketing bilíngue espanhol.
