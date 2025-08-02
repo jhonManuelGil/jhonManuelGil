@@ -60,20 +60,12 @@
 
 
 ###
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60px"  alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- <br>
-<div style="display:grid;align-items:center;justify-content:center">
-
-
-<div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonManuelGil github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonManuelGil&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="jhonManuelGil github stats" />
 </div>
+
+
 
 ###
 
@@ -101,13 +93,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 <br> 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonManuelGil&radius=10&theme=high-contrast&area=true&order=5&custom_title=jhonManuelGil&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-<br>
-<br> 
+
+ 
   
- ## 📬 Contáctame
+ ### 📬 Contáctame
 
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
