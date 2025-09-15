@@ -61,8 +61,8 @@
 
 ###
 <div align="center">  
-  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonManuelGil github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonManuelGil&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="jhonManuelGil github stats" />
+  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonManuelGil github stats"/> 
+  <img width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonManuelGil&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="jhonManuelGil github stats" />
 </div>
 
 
@@ -96,16 +96,41 @@
 
  
   
- ### 📬 Contáctame
+ ### 📬 Entre em contacto comigo
+ <br> 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://wa.me/5511958838782?text=Muito%20obrigado%20pelo%20contato!%20Fico%20muito%20feliz%20pela%20oportunidade.">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=128C7E&logoColor=white&labelColor=&style=for-the-badge">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge">
+          <img alt="WhatsApp" src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/835269507663659048">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge">
+          <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:jhonmanuelkg6@gmail.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge">
+          <img alt="Gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  
-[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/5511958838782?text=Muito%20obrigado%20pelo%20contato!%20Fico%20muito%20feliz%20pela%20oportunidade.)&nbsp;&nbsp;&nbsp;
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/835269507663659048)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:jhonmanuelkg6@gmail.com)
-<img align="right" height="120" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif"  />
-</div>
+<img align="right" height="120" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif" />
 
 
 ###
