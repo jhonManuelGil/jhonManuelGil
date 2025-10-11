@@ -24,31 +24,6 @@
   conflitos, resiliência, capacidade organizacional, entre outras.
 <hr>
 
-
-💻 **O que estou aprendendo e trabalhando:**  
-- **Linguagens de Programação** Python (focado em processamento de dados com Pandas, NumPy e ferramentas de automação de tarefas).
-- **Introdução a API** maior flexibilidade na busca e manipulação de dados para análises futuras.
-- **Bancos de Dados:** SQL (relacionais), NoSQL (MongoDB, Cassandra).
-- **Big Data:** Apache Spark, ETL (Extração, Transformação e Carga de Dados).
-- **Ferramentas e Sistemas:** Linux, Git/GitHub, Data Crawlers, Big Data Frameworks.
-- **Ferramentas de nuvem** como AWS ou AZURE
-
-
-<hr>
-
-### **Habilidades Pessoais:**  
-- **Capacidade analítica.**  
-- **Trabalho em equipe.** 
-- **Proatividade e vontade de aprender continuamente.**
-- **Pensamento crítico.** 
-- **Trabalhar sob pressão.**
-- **Visão estratégica.**
-- **Resolver problemas.**
-- **Produtividade mesmo em situações desafiadoras.**
-
-<hr>
-
-
 🌱 **Buscando:**  
 - Estágio em Data Engineer para aplicar meus conhecimentos e aprender com profissionais da área.  
 
@@ -60,11 +35,16 @@
 
 
 ###
-<div align="center">  
-  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonManuelGil github stats"/> 
-  <img width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonManuelGil&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="jhonManuelGil github stats" />
+
+🖥️ Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="242" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vision-friendly-dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
+###
+
+###
 
 
 ###
