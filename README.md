@@ -13,7 +13,7 @@
 - Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
 - Apaixonado por **Data Engineer**. Com um grande interesse em transformar informações complexas em soluções que realmente fazem a diferença.
   Na construção de pipelines de dados eficientes, no **design de estratégias de ETL** e na modelagem de dados, **busco sempre garantir desempenho,
-  escalabilidade e confiabilidade.**em traduzir dados em insights acionáveis que contribuam diretamente soluções claras e úteis, que
+  escalabilidade e confiabilidade.** em traduzir dados em insights acionáveis que contribuam diretamente soluções claras e úteis, que
   apoiem **decisões mais humanas e eficazes na tomada de decisão.**
 
 
