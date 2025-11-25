@@ -10,22 +10,32 @@
 
 <br> <br>
 🎓 **Quem sou eu?**  
-- Sou estudante de **Ciência da Computação** na **UNICID - Universidade Cidade de São Paulo**.  
-- Apaixonado por **Data Engineer**. Com um grande interesse em transformar informações complexas em soluções que realmente fazem a diferença.
-  Na construção de pipelines de dados eficientes, no **design de estratégias de ETL** e na modelagem de dados, **busco sempre garantir desempenho,
-  escalabilidade e confiabilidade.** em traduzir dados em insights acionáveis que contribuam diretamente soluções claras e úteis, que
-  apoiem **decisões mais humanas e eficazes na tomada de decisão.**
+Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Análise e Engenharia de Dados**. Tenho 
+um grande interesse em entender como os dados podem ajudar pessoas e empresas a tomarem decisões mais claras e inteligentes. Estou 
+sempre buscando aprender, melhorar e transformar informações complexas em algo simples, útil e acessível.
 
+Gosto especialmente de trabalhar com **ETL, modelagem de dados, SQL, Python e criação de pipelines**, sempre com foco em organização, 
+performance e clareza. Meu objetivo é evoluir um pouco mais a cada dia e contribuir com soluções que realmente façam diferença.
 
 - ✨💼 Experiência Profissional:<br>
-  Tenho 4 anos trabalhando no mundo do telemarketing bilíngue espanhol.
-  Ativo e Receptivo, Técnico e atualmente trabalho como BackOffice tipo 2. Ao longo da minha carreira
-  desenvolvi competências valiosas como comunicação, trabalho em equipe, criatividade, resolução de
-  conflitos, resiliência, capacidade organizacional, entre outras.
+Trabalho há 4 anos com atendimento bilíngue (espanhol) e BackOffice Tipo 2. Mesmo não sendo diretamente da área de dados, essa experiência
+me ajudou a desenvolver habilidades muito importantes:
+
+- Comunicação clara e empatia
+- Organização e atenção aos detalhes
+- Resolução de problemas e pensamento analítico
+- Trabalho em equipe
+- Resiliência e foco em entregar o melhor
+
+Aprendi a lidar com situações desafiadoras, a ouvir com atenção e a buscar sempre a solução mais justa e eficiente. Essas competências humanas
+me ajudam muito na transição para o mundo dos dados.
 <hr>
 
-🌱 **Buscando:**  
-- Estágio em Data Engineer para aplicar meus conhecimentos e aprender com profissionais da área.  
+🌱 O que estou buscando
+
+Procuro uma oportunidade de **Estágio em Análise de Dados ou Engenharia de Dados++, onde eu possa aprender com profissionais da área, aplicar meus 
+conhecimentos e crescer com responsabilidade e humildade. Quero me desenvolver contribuindo com tarefas reais, ajudando o time e evoluindo 
+tecnicamente a cada projeto.
 
 
 ###
