@@ -17,8 +17,8 @@ sempre buscando aprender, melhorar e transformar informações complexas em algo
 Gosto especialmente de trabalhar com **ETL, modelagem de dados, SQL, Python e criação de pipelines**, sempre com foco em organização, 
 performance e clareza. Meu objetivo é evoluir um pouco mais a cada dia e contribuir com soluções que realmente façam diferença.
 
-- ✨💼 Experiência Profissional:<br>
-Trabalho há 4 anos com atendimento bilíngue (espanhol) e BackOffice Tipo 2. Mesmo não sendo diretamente da área de dados, essa experiência
+✨💼 Experiência Profissional:<br>
+Trabalho há 4 anos com atendimento au cliente **Back Office 3 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
 me ajudou a desenvolver habilidades muito importantes:
 
 - Comunicação clara e empatia
@@ -26,6 +26,8 @@ me ajudou a desenvolver habilidades muito importantes:
 - Resolução de problemas e pensamento analítico
 - Trabalho em equipe
 - Resiliência e foco em entregar o melhor
+- Atendimento ao cliente
+- Relacionamentos interpessoais.
 
 Aprendi a lidar com situações desafiadoras, a ouvir com atenção e a buscar sempre a solução mais justa e eficiente. Essas competências humanas
 me ajudam muito na transição para o mundo dos dados.
@@ -33,7 +35,7 @@ me ajudam muito na transição para o mundo dos dados.
 
 🌱 O que estou buscando
 
-Procuro uma oportunidade de **Estágio em Análise de Dados ou Engenharia de Dados++, onde eu possa aprender com profissionais da área, aplicar meus 
+Procuro uma oportunidade de **Estágio em Análise de Dados ou Engenharia de Dados**, onde eu possa aprender com profissionais da área, aplicar meus 
 conhecimentos e crescer com responsabilidade e humildade. Quero me desenvolver contribuindo com tarefas reais, ajudando o time e evoluindo 
 tecnicamente a cada projeto.
 
