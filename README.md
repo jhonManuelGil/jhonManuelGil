@@ -9,7 +9,8 @@
 
 
 <br> <br>
-🎓 **Quem sou eu?**  
+ </picture><h2>**Quem sou eu?** <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
+
 Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Análise e Engenharia de Dados**. Tenho 
 um grande interesse em entender como os dados podem ajudar pessoas e empresas a tomarem decisões mais claras e inteligentes. Estou 
 sempre buscando aprender, melhorar e transformar informações complexas em algo simples, útil e acessível.
@@ -17,8 +18,9 @@ sempre buscando aprender, melhorar e transformar informações complexas em algo
 Gosto especialmente de trabalhar com **ETL, modelagem de dados, SQL, Python e criação de pipelines**, sempre com foco em organização, 
 performance e clareza. Meu objetivo é evoluir um pouco mais a cada dia e contribuir com soluções que realmente façam diferença.
 
-✨💼 Experiência Profissional:<br>
-Trabalho há 4 anos com atendimento au cliente **Back Office 3 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
+<h2> ✨💼 Experiência Profissional</h2>
+
+Trabalho há 5 anos com atendimento au cliente **Back Office 3 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
 me ajudou a desenvolver habilidades muito importantes:
 
 - Comunicação clara e empatia
@@ -33,7 +35,7 @@ Aprendi a lidar com situações desafiadoras, a ouvir com atenção e a buscar s
 me ajudam muito na transição para o mundo dos dados.
 <hr>
 
-🌱 O que estou buscando
+<h2>🌱 O que estou buscando</h2>
 
 Procuro uma oportunidade de **Estágio em Análise de Dados ou Engenharia de Dados**, onde eu possa aprender com profissionais da área, aplicar meus 
 conhecimentos e crescer com responsabilidade e humildade. Quero me desenvolver contribuindo com tarefas reais, ajudando o time e evoluindo 
@@ -49,48 +51,38 @@ tecnicamente a cada projeto.
 ###
 
 🖥️ Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonManuelGil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="242" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonManuelGil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vision-friendly-dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+
+![Github Status: Jhon Manuel Gil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonManuelGil&hide_title=github_dark)
+![Github Status Language: Jhon Manuel Gil](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonManuelGil&hide_title=compact&langs_count=8&theme=github_dark)
+
+
+
+
+###
+<br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Idiomas e ferramentas
+<br>
+<div align="center" >
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" alt="Jamstack"/></code>
+ <code><img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='60'/></code> 
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"/></code>
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55"/> </code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql logo"/> </code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=60" alt="python logo"/> </code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas logo"/></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" alt="apache logo"/></code>  
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"/></code> 
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="80" alt="azure logo"/></code> 
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="amazonwebservices logo"/></code>
 </div>
 
-###
 
-###
-
-
-###
-
-###
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-<br> 
-
- 
+ <br><br>
   
- ### 📬 Entre em contacto comigo
- <br> 
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> **Entre em contacto comigo**
+ <br>
 <table align="center">
+ 
   <tr>
     <td>
       <a href="https://wa.me/5511958838782?text=Muito%20obrigado%20pelo%20contato!%20Fico%20muito%20feliz%20pela%20oportunidade.">
