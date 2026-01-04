@@ -20,7 +20,7 @@ performance e clareza. Meu objetivo é evoluir um pouco mais a cada dia e contri
 
 <h2> ✨💼 Experiência Profissional</h2>
 
-Trabalho há 5 anos com atendimento au cliente **Back Office 3 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
+Trabalho há 5 anos com atendimento au cliente **Back Office 2 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
 me ajudou a desenvolver habilidades muito importantes:
 
 - Comunicação clara e empatia
@@ -46,8 +46,6 @@ tecnicamente a cada projeto.
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 ###
 
 🖥️ Status
@@ -58,9 +56,7 @@ tecnicamente a cada projeto.
 
 
 
-###
-<br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Idiomas e ferramentas
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> **Idiomas e ferramentas**
 <br>
 <div align="center" >
  <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" alt="Jamstack"/></code>
