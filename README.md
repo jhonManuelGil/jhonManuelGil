@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Analysis..&hearts;"></a> 
 </p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,7 +12,7 @@
 <br> <br>
  </picture><h2>**Quem sou eu?** <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
 
-Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Análise e Engenharia de Dados**. Tenho 
+Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Análise de Dados**. Tenho 
 um grande interesse em entender como os dados podem ajudar pessoas e empresas a tomarem decisões mais claras e inteligentes. Estou 
 sempre buscando aprender, melhorar e transformar informações complexas em algo simples, útil e acessível.
 
@@ -38,7 +38,7 @@ me ajudam muito na transição para o mundo dos dados.
 
 <h2>🌱 O que estou buscando</h2>
 
-Procuro uma oportunidade de **Estágio em Análise de Dados ou Engenharia de Dados**, onde eu possa aprender com profissionais da área, aplicar meus 
+Procuro uma oportunidade de **Estágio em Análise de Dados**, onde eu possa aprender com profissionais da área, aplicar meus 
 conhecimentos e crescer com responsabilidade e humildade. Quero me desenvolver contribuindo com tarefas reais, ajudando o time e evoluindo 
 tecnicamente a cada projeto.
 
