@@ -1,8 +1,9 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=900&height=100&lines=👋+Olá!+Bem-vindo+meu+Perfil..&hearts;++;No+GitHub+de+Data+Engineer..&hearts;"></a> 
 </p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -48,7 +49,7 @@ tecnicamente a cada projeto.
 
 ###
 
-🖥️ Status
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>GitHub Analytics</b>
 
 ![Github Status: Jhon Manuel Gil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonManuelGil&hide_title=github_dark)
 ![Github Status Language: Jhon Manuel Gil](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonManuelGil&hide_title=compact&langs_count=8&theme=github_dark)
@@ -56,7 +57,8 @@ tecnicamente a cada projeto.
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> **Idiomas e ferramentas**
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"><b>Idiomas e ferramentas</b>
 <br>
 <div align="center" >
  <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" alt="Jamstack"/></code>
@@ -75,7 +77,7 @@ tecnicamente a cada projeto.
 
  <br><br>
   
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> **Entre em contacto comigo**
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"><b>Entre em contacto comigo</b>
  <br>
 <table align="center">
  
@@ -128,8 +130,9 @@ tecnicamente a cada projeto.
   
 </div>
 
-
-<img width=100% margin-bottom="5" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<div align="center" >
+  <img width="100%" src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
 
 
