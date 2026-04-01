@@ -12,7 +12,7 @@
 <br> <br>
  </picture><h2>**Quem sou eu?** <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
 
-Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Engenharia de Dados | Análise de Dados**. Tenho 
+Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Engenhario de Dado | Análise de Dados**. Tenho 
 um grande interesse em entender como os dados podem ajudar pessoas e empresas a tomarem decisões mais claras e inteligentes. Estou 
 sempre buscando aprender, melhorar e transformar informações complexas em algo simples, útil e acessível.
 
@@ -112,13 +112,12 @@ tecnicamente a cada projeto.
   </tr>
 </table>
 
-<img align="right" height="120" src="https://cdn.prod.website-files.com/662fb92f905585b61b12afd8/666af67c534d424825188e46_loop_pcy%20saying%20hi%20crop.gif" />
 
 
 ###
 
-<!--horizontal divider(gradiant)-->
-<img width=100%  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <br> <br>
 
 
