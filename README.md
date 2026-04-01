@@ -12,7 +12,7 @@
 <br> <br>
  </picture><h2>**Quem sou eu?** <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
 
-Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Análise de Dados**. Tenho 
+Sou estudante de **Ciência da Computação na UNICID** e estou dando meus primeiros passos na área de **Engenharia de Dados | Análise de Dados**. Tenho 
 um grande interesse em entender como os dados podem ajudar pessoas e empresas a tomarem decisões mais claras e inteligentes. Estou 
 sempre buscando aprender, melhorar e transformar informações complexas em algo simples, útil e acessível.
 
@@ -21,7 +21,7 @@ performance e clareza. Meu objetivo é evoluir um pouco mais a cada dia e contri
 
 <h2> ✨💼 Experiência Profissional</h2>
 
-Trabalho há 5 anos com atendimento au cliente **Back Office 2 (Spanish) - Qualifying Leads**. Mesmo não sendo diretamente da área de dados, essa experiência
+Trabalho há 5 anos com atendimento au cliente **Back Office 2 (Spanish)**. Mesmo não sendo diretamente da área de dados, essa experiência
 me ajudou a desenvolver habilidades muito importantes:
 
 - Comunicação clara e empatia
