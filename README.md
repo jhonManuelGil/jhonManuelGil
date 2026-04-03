@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👤 Sobre Mim
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px" style="visibility: visible; max-width: 100%;"></picture> Sobre Mim
 
 Sou estudante de **Ciência da Computação** na UNICID e estou focando meus estudos em **Engenharia de Dados e Análise de Dados**. Tenho grande interesse em entender como os dados podem otimizar processos e gerar valor estratégico para empresas.
 
@@ -32,18 +32,19 @@ Trabalho há mais de 4 anos com atendimento ao cliente e **Back Office (Espanhol
 
 ## 🛠️ Tecnologias e Ferramentas
 
+<br />
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" title="Apache" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" title="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" title="VS Code" />
 </div>
+
+
 
 ---
 
@@ -57,6 +58,8 @@ Trabalho há mais de 4 anos com atendimento ao cliente e **Back Office (Espanhol
 ---
 
 ## 📬 Conecte-se Comigo
+
+<br />
 
 <div align="center">
   <a href="https://wa.me/5511958838782" target="_blank">
