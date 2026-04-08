@@ -67,7 +67,7 @@ Trabalho há mais de 4 anos com atendimento ao cliente e **Back Office (Espanhol
   <a href="https://wa.me/5511958838782" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/jhonmanuelgil" target="_blank">
+  <a href="https://www.linkedin.com/in/jhon-manuel-gil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:jhonmanuelkg6@gmail.com" target="_blank">
