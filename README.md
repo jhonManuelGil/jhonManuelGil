@@ -73,6 +73,9 @@ Trabalho há mais de 4 anos com atendimento ao cliente e **Back Office (Espanhol
   <a href="mailto:jhonmanuelkg6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://jhonmanuelgil.github.io/Portfolio-jhonmanuelgil-Analise-Dados/" target="_blank">
+   <img src="https://img.shields.io/badge/MI_PORTAFOLIO-Ver_Proyectos-blue?style=for-the-badge&logo=datascience&logoColor=white" alt="Portafolio">
+  </a>
 </div>
 
 <br />
